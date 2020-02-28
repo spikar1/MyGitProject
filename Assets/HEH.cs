@@ -10,9 +10,11 @@ public class HEH : MonoBehaviour
         
     }
 
+    int i;
+
     // Update is called once per frame
     void Update()
     {
-        
+        print(i++);
     }
 }
