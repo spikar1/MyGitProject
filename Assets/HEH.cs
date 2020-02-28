@@ -4,11 +4,6 @@ using UnityEngine;
 
 public class HEH : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     int i;
 
