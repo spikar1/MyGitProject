@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class HEH : MonoBehaviour
 {
+    void Start()
+    {
+        print("Super viktig");
+        print("Veldig asse");
+    }
 
     int i;
 
